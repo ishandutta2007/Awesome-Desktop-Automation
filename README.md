@@ -23,14 +23,14 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Desktop Automation Startups)
 
-| Product | Description | Pricing | Free Tier Limit |
-| :--- | :--- | :--- | :--- |
-| **[Cyberdesk](https://cyberdesk.ai/)** | AI agent platform for automating complex desktop workflows and application interactions. | Custom / Developer pricing | GitHub starter kits & developer access |
-| **[Minicor](https://minicor.ai/)** | Intelligent desktop automation tool focused on repetitive task elimination with AI. | Usage-based (B2B focus) | None (Demo/custom inquiry required) |
-| **[Coasty](https://coasty.ai/)** | Modern AI desktop agent for cross-application automation and productivity enhancement. | Starts at $19/mo (Starter), $50/mo (Plus), $99/mo (Unlimited) | Rate-limited starter plan (no credit card required) |
-| **[RamAIn](https://ramain.ai/)** | AI-powered automation platform specializing in desktop and browser task orchestration. | Starts at $25/mo (Professional), $500+/mo (Enterprise) | Free Plan ($0/mo) with 1 concurrent run & webhooks |
-| **[Sola](https://sola.ai/)** | Desktop-focused AI agent for personal and professional workflow automation. | $49/mo (Starter), $199/mo (Pro) | 20 AI credits/week, 2 team members, 2 data sources |
-| **[Pig](https://pig.ai/)** | Innovative AI desktop automation startup with strong GUI understanding capabilities. | Estimated $20–$40/mo | Contact sales for trial / limits |
+| Product | Description | Pricing | Free Tier Limit | Company Size (Funding/Valuation) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Sola](https://sola.ai/)** | Desktop-focused AI agent for personal and professional workflow automation. | $49/mo (Starter), $199/mo (Pro) | 20 AI credits/week, 2 team members, 2 data sources | $21.5M Funding |
+| **[Cyberdesk](https://cyberdesk.ai/)** | AI agent platform for automating complex desktop workflows and application interactions. | Custom / Developer pricing | GitHub starter kits & developer access | $500K Funding / $220K ARR |
+| **[Minicor](https://minicor.ai/)** | Intelligent desktop automation tool focused on repetitive task elimination with AI. | Usage-based (B2B focus) | None (Demo/custom inquiry required) | $500K Funding |
+| **[RamAIn](https://ramain.ai/)** | AI-powered automation platform specializing in desktop and browser task orchestration. | Starts at $25/mo (Professional), $500+/mo (Enterprise) | Free Plan ($0/mo) with 1 concurrent run & webhooks | $500K Funding |
+| **[Pig](https://pig.ai/)** | Innovative AI desktop automation startup with strong GUI understanding capabilities. | Estimated $20–$40/mo | Contact sales for trial / limits | $500K Funding |
+| **[Coasty](https://coasty.ai/)** | Modern AI desktop agent for cross-application automation and productivity enhancement. | Starts at $19/mo (Starter), $50/mo (Plus), $99/mo (Unlimited) | Rate-limited starter plan (no credit card required) | $500K Funding |
 
 ### Advanced & Specialized Platforms
 
