@@ -34,7 +34,11 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 | Product | Description | Pricing | Free Tier Limit | Company Size (Funding/Valuation) |
 | :--- | :--- | :--- | :--- | :--- |
+| **[Adept AI](https://www.adept.ai/)** | Enterprise-focused AI agent that automates complex multi-step workflows by interacting directly with user interfaces. | Custom / Enterprise pricing | None | ~$1.8B Funding |
+| **[Lindy AI](https://www.lindy.ai/)** | No-code AI employee platform for building custom autonomous assistants to execute desktop and web workflows. | Pay-as-you-go / Custom | Free trial with initial credits | ~$50M Funding |
+| **[MultiOn](https://www.multion.ai/)** | AI agent platform offering APIs for autonomous web browsing, search, and browser-based desktop task automation. | Starts at $20/mo (Developer) | Free tier available with rate limits | ~$28M Funding |
 | **[Sola](https://sola.ai/)** | Desktop-focused AI agent for personal and professional workflow automation. | $49/mo (Starter), $199/mo (Pro) | 20 AI credits/week, 2 team members, 2 data sources | $21.5M Funding |
+| **[Induced AI](https://www.induced.ai/)** | Cloud-hosted AI agent platform running virtual browsers to automate back-office workflows and data entry. | Custom / Usage-based | Trial available on request | ~$2.4M Funding |
 | **[Cyberdesk](https://cyberdesk.ai/)** | AI agent platform for automating complex desktop workflows and application interactions. | Custom / Developer pricing | GitHub starter kits & developer access | $500K Funding / $220K ARR |
 | **[Minicor](https://minicor.ai/)** | Intelligent desktop automation tool focused on repetitive task elimination with AI. | Usage-based (B2B focus) | None (Demo/custom inquiry required) | $500K Funding |
 | **[RamAIn](https://ramain.ai/)** | AI-powered automation platform specializing in desktop and browser task orchestration. | Starts at $25/mo (Professional), $500+/mo (Enterprise) | Free Plan ($0/mo) with 1 concurrent run & webhooks | $500K Funding |
