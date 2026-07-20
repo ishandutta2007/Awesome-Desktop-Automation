@@ -2,8 +2,8 @@
   <img src="assets/banner.svg" alt="Awesome Desktop Automation Banner" width="100%" />
 </p>
 
-# Awesome-Desktop-Automation
-## Top Desktop Automation Startups Ecosystem
+# 🚀 Awesome-Desktop-Automation
+## 🌟 Top Desktop Automation Startups Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on AI-Powered Desktop Automation, RPA & Agentic Workflows*  
@@ -17,15 +17,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
+## 📋 Table of Contents
 - [SaaS Products](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS Products
+## 💼 SaaS Products
 
-### Core Platforms (Desktop Automation Startups)
+### 🤖 Core Platforms (Desktop Automation Startups)
 
 | Product | Description | Pricing | Free Tier Limit | Company Size (Funding/Valuation) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -36,13 +36,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Pig](https://pig.ai/)** | Innovative AI desktop automation startup with strong GUI understanding capabilities. | Estimated $20–$40/mo | Contact sales for trial / limits | $500K Funding |
 | **[Coasty](https://coasty.ai/)** | Modern AI desktop agent for cross-application automation and productivity enhancement. | Starts at $19/mo (Starter), $50/mo (Plus), $99/mo (Unlimited) | Rate-limited starter plan (no credit card required) | $500K Funding |
 
-### Advanced & Specialized Platforms
+### ⚙️ Advanced & Specialized Platforms
 
 **Other notable mentions**: UiPath, Automation Anywhere, and various RPA platforms with AI features.
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
-### Dedicated Desktop Automation Tools
+### 🛠️ Dedicated Desktop Automation Tools
 
 - **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   Open-source workflow automation with nodes for desktop and browser automation.
@@ -74,7 +74,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[SikuliX](https://github.com/RaiMan/SikuliX1)** [![Stars](https://img.shields.io/github/stars/RaiMan/SikuliX1?style=social&color=white)](https://github.com/RaiMan/SikuliX1/stargazers)  
   Open-source visual automation tool that uses image recognition to control desktop applications.
 
-### Additional Strong Open-Source Options
+### ➕ Additional Strong Open-Source Options
 
 - **[AutoHotkey](https://github.com/AutoHotkey/AutoHotkey)** [![Stars](https://img.shields.io/github/stars/AutoHotkey/AutoHotkey?style=social&color=white)](https://github.com/AutoHotkey/AutoHotkey/stargazers) — Classic Windows automation scripting language with AI extensions.
 - **[Appium](https://github.com/appium/appium)** [![Stars](https://img.shields.io/github/stars/appium/appium?style=social&color=white)](https://github.com/appium/appium/stargazers) — Open-source mobile/desktop automation framework.
@@ -85,7 +85,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom agents**: Combine **OpenDevin**, **Aider**, **PyAutoGUI**, and **LangGraph** with **Ollama** to create fully local, powerful desktop automation agents.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -94,7 +94,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Desktop automation tools can interact with sensitive applications — use responsibly and securely.
