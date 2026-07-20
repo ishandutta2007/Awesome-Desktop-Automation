@@ -40,43 +40,43 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Desktop Automation Tools
 
-- **[OpenDevin](https://github.com/OpenDevin/OpenDevin)**  
-  Open-source autonomous AI software engineer capable of interacting with desktop environments and performing complex tasks.
-
-- **[Aider](https://github.com/paul-gauthier/aider)**  
-  Command-line AI coding assistant that works directly with local codebases and desktop tools.
-
-- **[Continue](https://github.com/continuedev/continue)**  
-  Open-source autopilot for VS Code and JetBrains with desktop automation capabilities.
-
-- **[RoboBrowser](https://github.com/RoboBrowser/robobrowser)**  
-  Python library for browser automation that can be combined with desktop control.
-
-- **[PyAutoGUI](https://github.com/asweigart/pyautogui)**  
-  Popular open-source library for GUI automation and desktop task scripting.
-
-- **[n8n](https://github.com/n8n-io/n8n)**  
+- **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   Open-source workflow automation with nodes for desktop and browser automation.
 
-- **[Huginn](https://github.com/huginn/huginn)**  
+- **[Huginn](https://github.com/huginn/huginn)** [![Stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers)  
   Open-source personal automation agent for desktop and web task orchestration.
 
-- **[LangGraph Desktop Agents](https://github.com/langchain-ai/langgraph)**  
+- **[Aider](https://github.com/paul-gauthier/aider)** [![Stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=social&color=white)](https://github.com/paul-gauthier/aider/stargazers)  
+  Command-line AI coding assistant that works directly with local codebases and desktop tools.
+
+- **[LangGraph Desktop Agents](https://github.com/langchain-ai/langgraph)** [![Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
   Stateful multi-agent framework for building reliable desktop automation agents.
 
-- **[CrewAI Desktop Crews](https://github.com/crewAIInc/crewAI)**  
+- **[Continue](https://github.com/continuedev/continue)** [![Stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers)  
+  Open-source autopilot for VS Code and JetBrains with desktop automation capabilities.
+
+- **[CrewAI Desktop Crews](https://github.com/crewAIInc/crewAI)** [![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
   Role-based multi-agent orchestration for complex desktop workflows.
 
-- **[SikuliX](https://github.com/RaiMan/SikuliX1)**  
+- **[OpenDevin](https://github.com/OpenDevin/OpenDevin)** [![Stars](https://img.shields.io/github/stars/OpenDevin/OpenDevin?style=social&color=white)](https://github.com/OpenDevin/OpenDevin/stargazers)  
+  Open-source autonomous AI software engineer capable of interacting with desktop environments and performing complex tasks.
+
+- **[PyAutoGUI](https://github.com/asweigart/pyautogui)** [![Stars](https://img.shields.io/github/stars/asweigart/pyautogui?style=social&color=white)](https://github.com/asweigart/pyautogui/stargazers)  
+  Popular open-source library for GUI automation and desktop task scripting.
+
+- **[RoboBrowser](https://github.com/RoboBrowser/robobrowser)** [![Stars](https://img.shields.io/github/stars/RoboBrowser/robobrowser?style=social&color=white)](https://github.com/RoboBrowser/robobrowser/stargazers)  
+  Python library for browser automation that can be combined with desktop control.
+
+- **[SikuliX](https://github.com/RaiMan/SikuliX1)** [![Stars](https://img.shields.io/github/stars/RaiMan/SikuliX1?style=social&color=white)](https://github.com/RaiMan/SikuliX1/stargazers)  
   Open-source visual automation tool that uses image recognition to control desktop applications.
 
 ### Additional Strong Open-Source Options
 
-- **[AutoHotkey](https://github.com/AutoHotkey/AutoHotkey)** — Classic Windows automation scripting language with AI extensions.
-- **[UI.Vision](https://github.com/A9T9/RPA)** — Open-source RPA tool with visual automation.
-- **[TagUI](https://github.com/kelaberetiv/TagUI)** — Free RPA tool for desktop and web automation.
-- **[Robot Framework](https://github.com/robotframework/robotframework)** — Keyword-driven test automation with desktop support.
-- **[Appium](https://github.com/appium/appium)** — Open-source mobile/desktop automation framework.
+- **[AutoHotkey](https://github.com/AutoHotkey/AutoHotkey)** [![Stars](https://img.shields.io/github/stars/AutoHotkey/AutoHotkey?style=social&color=white)](https://github.com/AutoHotkey/AutoHotkey/stargazers) — Classic Windows automation scripting language with AI extensions.
+- **[Appium](https://github.com/appium/appium)** [![Stars](https://img.shields.io/github/stars/appium/appium?style=social&color=white)](https://github.com/appium/appium/stargazers) — Open-source mobile/desktop automation framework.
+- **[Robot Framework](https://github.com/robotframework/robotframework)** [![Stars](https://img.shields.io/github/stars/robotframework/robotframework?style=social&color=white)](https://github.com/robotframework/robotframework/stargazers) — Keyword-driven test automation with desktop support.
+- **[TagUI](https://github.com/kelaberetiv/TagUI)** [![Stars](https://img.shields.io/github/stars/kelaberetiv/TagUI?style=social&color=white)](https://github.com/kelaberetiv/TagUI/stargazers) — Free RPA tool for desktop and web automation.
+- **[UI.Vision](https://github.com/A9T9/RPA)** [![Stars](https://img.shields.io/github/stars/A9T9/RPA?style=social&color=white)](https://github.com/A9T9/RPA/stargazers) — Open-source RPA tool with visual automation.
 - Many community **Ollama + PyAutoGUI** stacks for intelligent desktop agents.
 
 **Frameworks for building custom agents**: Combine **OpenDevin**, **Aider**, **PyAutoGUI**, and **LangGraph** with **Ollama** to create fully local, powerful desktop automation agents.
