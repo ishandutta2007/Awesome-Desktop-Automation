@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#311042" />
+    </linearGradient>
+    <!-- Accent Gradient -->
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#f43f5e" />
+    </linearGradient>
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="rgba(255, 255, 255, 0.05)" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" fill="url(#bgGrad)" />
+  <!-- Grid Overlay -->
+  <rect width="800" height="200" fill="url(#grid)" />
+
+  <!-- Animated-like Abstract Technical Shapes -->
+  <style>
+    @keyframes pulse {
+      0%, 100% { opacity: 0.2; transform: scale(1); }
+      50% { opacity: 0.6; transform: scale(1.05); }
+    }
+    .pulsing-circle {
+      animation: pulse 4s ease-in-out infinite;
+      transform-origin: 650px 100px;
+    }
+  </style>
+
+  <!-- Visual Ornaments -->
+  <circle cx="650" cy="100" r="80" fill="none" stroke="url(#accentGrad)" stroke-width="1.5" class="pulsing-circle" />
+  <circle cx="650" cy="100" r="50" fill="none" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1" />
+  
+  <!-- Glowing decorative orbs -->
+  <circle cx="100" cy="100" r="120" fill="rgba(56, 189, 248, 0.08)" filter="blur(20px)" />
+  <circle cx="700" cy="100" r="100" fill="rgba(168, 85, 247, 0.08)" filter="blur(30px)" />
+
+  <!-- Tech Lines/Nodes -->
+  <g stroke="rgba(255, 255, 255, 0.15)" stroke-width="1">
+    <line x1="50" y1="150" x2="250" y2="150" />
+    <circle cx="250" cy="150" r="3" fill="#38bdf8" />
+    <line x1="600" y1="50" x2="750" y2="50" />
+    <circle cx="600" cy="50" r="3" fill="#f43f5e" />
+  </g>
+
+  <!-- Typography -->
+  <!-- Main Title -->
+  <text x="50" y="95" font-family="'Outfit', 'Inter', system-ui, sans-serif" font-weight="800" font-size="38" fill="url(#accentGrad)" letter-spacing="1">
+    Awesome Desktop Automation
+  </text>
+  <!-- Subtitle -->
+  <text x="50" y="130" font-family="'Inter', system-ui, sans-serif" font-weight="400" font-size="15" fill="#94a3b8" letter-spacing="0.5">
+    Curated list of AI agents, RPA tools &amp; desktop automation frameworks
+  </text>
+
+</svg>

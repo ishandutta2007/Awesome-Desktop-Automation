@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Desktop Automation Banner" width="100%" />
+</p>
+
 # Awesome-Desktop-Automation
 ## Top Desktop Automation Startups Ecosystem
 
