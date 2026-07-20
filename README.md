@@ -105,6 +105,17 @@ Star the repo if you find it useful!
 - Desktop automation tools can interact with sensitive applications — use responsibly and securely.
 - Self-hosted open-source solutions require proper configuration and testing.
 
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Desktop-Automation&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Desktop-Automation&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Desktop-Automation&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Desktop-Automation&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
 ---
 
 **Made for power users, developers, automation enthusiasts, and productivity hackers.**  
