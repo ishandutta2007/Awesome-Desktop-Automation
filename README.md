@@ -2,18 +2,19 @@
   <img src="assets/banner.svg" alt="Awesome Desktop Automation Banner" width="100%" />
 </p>
 
-# 🚀 Awesome-Desktop-Automation
-## 🌟 Top Desktop Automation Startups Ecosystem
+# 🚀 Awesome Desktop Automation - Curated List of AI Computer-Use Agents, RPA Tools & Desktop Automation Startups
+
+## 🌟 Top Robotic Process Automation (RPA) & AI Desktop Agent Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on AI-Powered Desktop Automation, RPA & Agentic Workflows*  
+*Focused on AI-Powered Desktop Automation, Robotic Process Automation (RPA) & Agentic Workflows*  
 **Last updated: March 2026**
 
-This repository tracks notable **SaaS platforms** and **open-source projects** building **Desktop Automation Startups**. These tools use AI agents to automate repetitive desktop tasks, browser actions, file operations, app interactions, and workflow orchestration across local machines.
+This repository tracks notable **SaaS platforms** and **open-source projects** building **Desktop Automation Startups**. These tools use AI computer-use agents to automate repetitive desktop tasks, browser actions, file operations, app interactions, and workflow orchestration across local machines (Windows, macOS, and Linux).
 
-**Examples** include Cyberdesk, Minicor, Coasty, RamAIn, Sola, and Pig (the category leaders). Tools listed here emphasize **agentic capabilities** (multi-step reasoning, visual understanding, GUI interaction, and cross-app automation).
+**Examples** include Cyberdesk, Minicor, Coasty, RamAIn, Sola, and Pig (the category leaders). Tools listed here emphasize **agentic capabilities** (multi-step reasoning, visual understanding, GUI interaction, and cross-application automation).
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local LLMs (Ollama), full customization, and complete data privacy — ideal for developers and power users who want sovereign desktop automation.
+**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local Large Language Models (LLMs like Ollama, Llama 3), full customization, and complete data privacy — ideal for developers and power users who want sovereign desktop automation.
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
